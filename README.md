@@ -2,7 +2,7 @@
 
 Python project for Code Louisville Data Analysis II in summer 2022.
 
-Data sources: https://www.kaggle.com/datasets/kkhandekar/global-protest-tracker <br/>
+Data sources:<br/> https://www.kaggle.com/datasets/kkhandekar/global-protest-tracker <br/>
               https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report-2021.csv
 
 PROJECT DESCRIPTION TO BE UPDATED: This project includes data for the most crowded airports around the world. The user selects a region of interest (from a list provided) and the program auto-generates a line graph showing total number of passengers for airports in that region by year. Project includes a dictionary and a list, as well as a While loop.
